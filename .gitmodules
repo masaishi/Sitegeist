@@ -1,0 +1,3 @@
+[submodule "api_CruzHacks2024"]
+	path = api_CruzHacks2024
+	url = https://github.com/masaishi/api_CruzHacks2024.git
