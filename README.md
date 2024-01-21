@@ -10,7 +10,7 @@ Sitegeist is an innovative platform that transforms the vast sea of conversation
 
 - **Backend Services**: [*FastAPI*](https://fastapi.tiangolo.com/) - Delve into the backend, the powerhouse of Sitegeist, where all the data extraction, sentiment analysis, and NLP processing takes place.
 
-- **NLP Pipeline**: [*scikit-learn*](https://scikit-learn.org/stable/) & [*NLTK*](https://www.nltk.org/) - Learn about the NLP pipeline that powers Sitegeist, from sentiment analysis to word frequency analysis.
+- **NLP Pipeline**: [*NLTK*](https://www.nltk.org/) & [*scikit-learn*](https://scikit-learn.org/stable/) & [*transformers*](https://huggingface.co/docs/transformers/index) - Learn about the NLP pipeline that powers Sitegeist, from sentiment analysis to word frequency analysis.
 
 
 ### Key Features
