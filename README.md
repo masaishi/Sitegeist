@@ -12,6 +12,9 @@ Dive into the technical details and contribute to our project:
 
 - **Backend Services**: [GitHub Repository](https://github.com/masaishi/api_CruzHacks2024) - Delve into the backend, the powerhouse of Sitegeist, where all the data extraction, sentiment analysis, and NLP processing takes place.
 
+- **NLP Pipeline**: [GitHub Repository](https://github.com/masaishi/nlp_CruzHacks2024.git) - Learn about the NLP pipeline that powers Sitegeist, from sentiment analysis to word frequency analysis.
+
+- **Reddit Data Collector**: [GitHub Repository](https://github.com/masaishi/reddit_CruzHacks2024.git) - Explore the data collection tool that extracts textual data from Reddit.
 
 
 ### Key Features

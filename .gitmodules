@@ -4,3 +4,9 @@
 [submodule "web_CruzHacks2024"]
 	path = web_CruzHacks2024
 	url = https://github.com/masaishi/web_CruzHacks2024.git
+[submodule "nlp_CruzHacks2024"]
+	path = nlp_CruzHacks2024
+	url = https://github.com/masaishi/nlp_CruzHacks2024.git
+[submodule "reddit_CruzHacks2024"]
+	path = reddit_CruzHacks2024
+	url = https://github.com/masaishi/reddit_CruzHacks2024.git
