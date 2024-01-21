@@ -2,7 +2,6 @@
 
 ![Sitegeist_demo](https://github.com/masaishi/Sitegeist/assets/1396267/c1d55aa5-dd7c-4090-a173-0ca8c157e423)
 
-
 Sitegeist is an innovative platform that transforms the vast sea of conversations on Reddit into actionable insights. At its core, Sitegeist leverages advanced sentiment analysis and Natural Language Processing (NLP) methods to dissect and understand the wants and needs of online communities. Here's how it works:
 
 ### System Architecture
