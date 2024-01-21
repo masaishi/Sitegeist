@@ -1,5 +1,7 @@
 # Sitegeist: Harnessing the Power of Sentiment Analysis and NLP for Problem-Solving
 
+![Sitegeist_demo](https://github.com/masaishi/Sitegeist/assets/1396267/24a9c748-2040-4d14-95e0-7df00a21b5f0)
+
 Sitegeist is an innovative platform that transforms the vast sea of conversations on Reddit into actionable insights. At its core, Sitegeist leverages advanced sentiment analysis and Natural Language Processing (NLP) methods to dissect and understand the wants and needs of online communities. Here's how it works:
 
 ### System Architecture
