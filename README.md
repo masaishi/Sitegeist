@@ -1,14 +1,14 @@
 # Sitegeist: Harnessing the Power of Sentiment Analysis and NLP for Problem-Solving
 
-## Sitegeist: Bridging Online Conversations and Real-World Solutions
-
 Sitegeist is an innovative platform that transforms the vast sea of conversations on Reddit into actionable insights. At its core, Sitegeist leverages advanced sentiment analysis and Natural Language Processing (NLP) methods to dissect and understand the nuances of online discussions. Here's how it works:
 
 ### Explore Our Repositories
 
+<img width="1200" alt="Screenshot 2024-01-21 at 3 04 43 AM" src="https://github.com/masaishi/Sitegeist/assets/1396267/554d0562-79e1-4047-928b-4c812afaac80">
+
 Dive into the technical details and contribute to our project:
 
-- **Web Application**: [GitHub Repository](https://github.com/masaishi/web_CruzHacks2024) - Explore the frontend of Sitegeist, where users interact with the data and insights extracted from Reddit discussions.
+- **Frontend**: [GitHub Repository](https://github.com/masaishi/web_CruzHacks2024) - Explore the frontend of Sitegeist, where users interact with the data and insights extracted from Reddit discussions.
 
 - **Backend Services**: [GitHub Repository](https://github.com/masaishi/api_CruzHacks2024) - Delve into the backend, the powerhouse of Sitegeist, where all the data extraction, sentiment analysis, and NLP processing takes place.
 
