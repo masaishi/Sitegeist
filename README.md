@@ -9,11 +9,11 @@ Sitegeist is an innovative platform that transforms the vast sea of conversation
 
 <img width="1200" alt="Screenshot 2024-01-21 at 3 04 43 AM" src="https://github.com/masaishi/Sitegeist/assets/1396267/554d0562-79e1-4047-928b-4c812afaac80">
 
-- **Frontend**: [*React*](https://react.dev/) - Easily explore and analyze trending topics, where users interact with the data and insights extracted from Reddit discussions.
+- [**Frontend**](https://github.com/masaishi/web_CruzHacks2024): [*React*](https://react.dev/) - Easily explore and analyze trending topics, where users interact with the data and insights extracted from Reddit discussions.
 
-- **Backend Services**: [*FastAPI*](https://fastapi.tiangolo.com/) - Delve into the backend, the powerhouse of Sitegeist, where all the data extraction, sentiment analysis, and NLP processing takes place.
+- [**Backend Services**](https://github.com/masaishi/api_CruzHacks2024): [*FastAPI*](https://fastapi.tiangolo.com/) - Delve into the backend, the powerhouse of Sitegeist, where all the data extraction, sentiment analysis, and NLP processing takes place.
 
-- **NLP Pipeline**: [*NLTK*](https://www.nltk.org/) & [*scikit-learn*](https://scikit-learn.org/stable/) & [*transformers*](https://huggingface.co/docs/transformers/index) - Learn about the NLP pipeline that powers Sitegeist, from sentiment analysis to word frequency analysis.
+- [**NLP Pipeline**](https://github.com/masaishi/nlp_CruzHacks2024): [*NLTK*](https://www.nltk.org/) & [*scikit-learn*](https://scikit-learn.org/stable/) & [*transformers*](https://huggingface.co/docs/transformers/index) - Learn about the NLP pipeline that powers Sitegeist, from sentiment analysis to word frequency analysis.
 
 
 ### Key Features
